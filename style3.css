@@ -1,0 +1,33 @@
+body{
+    background-image: url('https://cdn.wallpapersafari.com/24/74/zgeTuV.jpg');
+    background-blend-mode: lighten;
+    font: white;
+}
+
+.q{
+    color: white;
+    font-size: 50px;
+}
+#c{
+    font-size: 35px;
+    color: white;
+    font: white;
+}
+#d{
+    font-size: 30px;
+    color: white;
+    font: white;
+}
+h3{
+    font: white;
+}
+#abc{
+    background-color: red;
+    font-size: 19px;
+    display: inline;
+    float: right;
+}
+#mn{
+    background-color: red;
+    float: right;
+}
